@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> what app is now on website </h1>
+<p> It amases most users that whats app can be available on website platform </p>
+<a href= "https://web.whatsapp.com/"> see link below </a>
+
+<h2>The src Attribute</h2>
+<p>HTML images are defined with the img tag, and the filename of the image source is specified in the src attribute:</p>
+
+<img src="img_girl.jpg" width="500" height="600">
+<p> </p>
+<img src="C:\Users\ismae\OneDrive\Documents\my image.jpeg" width="768" height="1024">
+
+</body>
+</html>
